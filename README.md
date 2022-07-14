@@ -6,12 +6,7 @@
 
 ## Languages & Tools:
 
-###<img  width="25" heigh="25" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">
-<img  width="25" heigh="25" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/java/java.png">
-<img  width="25" heigh="25" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/python/python.png">
-<img  width="25" heigh="25" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/react/react.png">
-<img  width="25" heigh="25" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/nodejs/nodejs.png">
-<img  width="25" heigh="25" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/mongodb/mongodb.png">
+<img  width="25" heigh="25" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"><img  width="25" heigh="25" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/java/java.png"><img  width="25" heigh="25" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/python/python.png"><img  width="25" heigh="25" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/react/react.png"><img  width="25" heigh="25" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/nodejs/nodejs.png"><img  width="25" heigh="25" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/mongodb/mongodb.png">
 <hr>
 
 ## Contact me:
