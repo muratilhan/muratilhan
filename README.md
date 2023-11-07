@@ -1,7 +1,7 @@
 ## Hi there, I'm Murat.
 <hr>
 
-### I study Computer Engineering at Uludağ University.Meanwhile i do some projects to get better developer.I upload my projects to this platform, if u are interested with them u can check my repostory..
+### I study Computer Engineering at Uludağ University.Meanwhile i do some projects to get better developer.I upload my projects to this platform, if u are interested in them u can check my repostory..
 <hr>
 
 ## Languages & Tools:
